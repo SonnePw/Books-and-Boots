@@ -1,0 +1,778 @@
+@20=~Luxury Manual of Gainful Exercise~
+@21=~This book is lavishly adorned with gemstones, precious metals and exotic leather, its whole exterior screams as if the sole purpose of its existence is to stand on a shelf in a house of some nobility. Unlike typical manuals of gainful exercise this version holds no useful information but rather collection of pictures. Although this book is small, it is actually quite heavy. Using magical powers of this book will cause it to completely dissolve into nothing.
+
+STATISTICS:
+
+Strength: Raised by 1 point permanently
+Special: The book is consumed upon use
+Usage: Place into quick item slot
+
+Weight: 50~
+
+
+
+@22=~Luxury Manual of Quickness of Action~
+@23=~This book is lavishly adorned with gemstones, precious metals and exotic leather, its whole exterior screams as if the sole purpose of its existence is to stand on a shelf in a house of some nobility. Unlike typical manuals of quickness of action this version holds no useful information but rather collection of pictures. Although this book is small, it is actually quite heavy. Using magical powers of this book will cause it to completely dissolve into nothing.
+
+STATISTICS:
+
+Dexterity: Raised by 1 point permanently
+Special: The book is consumed upon use
+Usage: Place into quick item slot
+
+Weight: 50~
+
+
+
+@24=~Luxury Manual of Bodily Health~
+@25=~This book is lavishly adorned with gemstones, precious metals and exotic leather, its whole exterior screams as if the sole purpose of its existence is to stand on a shelf in a house of some nobility. Unlike typical manuals of bodily health this version holds no useful information but rather collection of pictures. Although this book is small, it is actually quite heavy. Using magical powers of this book will cause it to completely dissolve into nothing.
+
+STATISTICS:
+
+Constitution: Raised by 1 point permanently
+Special: The book is consumed upon use
+Usage: Place into quick item slot
+
+Weight: 50~
+
+
+
+@26=~Luxury Tome of Clear Thought~
+@27=~This book is lavishly adorned with gemstones, precious metals and exotic leather, its whole exterior screams as if the sole purpose of its existence is to stand on a shelf in a house of some nobility. Unlike typical tomes of clear thought this version holds no useful information but rather collection of pictures. Although this book is small, it is actually quite heavy. Using magical powers of this book will cause it to completely dissolve into nothing.
+
+STATISTICS:
+
+Intelligence: Raised by 1 point permanently
+Special: The book is consumed upon use
+Usage: Place into quick item slot
+
+Weight: 50~
+
+
+
+@28=~Luxury Tome of Understanding~
+@29=~This book is lavishly adorned with gemstones, precious metals and exotic leather, its whole exterior screams as if the sole purpose of its existence is to stand on a shelf in a house of some nobility. Unlike typical tomes of understanding this version holds no useful information but rather collection of pictures. Although this book is small, it is actually quite heavy. Using magical powers of this book will cause it to completely dissolve into nothing.
+
+STATISTICS:
+
+Wisdom: Raised by 1 point permanently
+Special: The book is consumed upon use
+Usage: Place into quick item slot
+
+Weight: 50~
+
+
+
+@30=~Luxury Tome of Leadership and Influence~
+@31=~This book is lavishly adorned with gemstones, precious metals and exotic leather, its whole exterior screams as if the sole purpose of its existence is to stand on a shelf in a house of some nobility. Unlike typical tomes of leadership and influence this version holds no useful information but rather collection of pictures. Although this book is small, it is actually quite heavy. Using magical powers of this book will cause it to completely dissolve into nothing.
+
+STATISTICS:
+
+Charisma: Raised by 1 point permanently
+Special: The book is consumed upon use
+Usage: Place into quick item slot
+
+Weight: 50~
+
+
+
+@32=~Luxury Book of Luck~
+@33=~This book is lavishly adorned with gemstones, precious metals and exotic leather, its whole exterior screams as if the sole purpose of its existence is to stand on a shelf in a house of some nobility. This book holds no useful information but rather collection of pictures. Using magical powers of this book will cause it to completely dissolve into nothing.
+
+STATISTICS:
+
+Luck: Raised by 1 point permanently
+Special: The book is consumed upon use
+Usage: Place into quick item slot
+
+Weight: 50~
+
+
+
+@34=~Luxury Book of Sharp Eye~
+@35=~This book is lavishly adorned with gemstones, precious metals and exotic leather, its whole exterior screams as if the sole purpose of its existence is to stand on a shelf in a house of some nobility. This book holds no useful information but rather collection of pictures. Using magical powers of this book will cause it to completely dissolve into nothing.
+
+STATISTICS:
+
+THAC0: Raised by 1 point permanently
+Special: The book is consumed upon use
+Usage: Place into quick item slot
+
+Weight: 50~
+
+
+
+@36=~Luxury Book of Sturdiness~
+@37=~This book is lavishly adorned with gemstones, precious metals and exotic leather, its whole exterior screams as if the sole purpose of its existence is to stand on a shelf in a house of some nobility. This book holds no useful information but rather collection of pictures. Using magical powers of this book will cause it to completely dissolve into nothing.
+
+STATISTICS:
+
+HP: Raised by 10 point permanently
+Special: The book is consumed upon use
+Usage: Place into quick item slot
+
+Weight: 50~
+
+
+
+@38=~Light running boots~
+@39=~Those light boots make its wearer run extremely fast but at a price of vulnerability to magical and natural forces.
+
+STATISTICS:
+
+Equipped abilities:
+- Doubled movement rate
+- Lowered cold, fire, acid, poison, electricity and magic damage resistances
+
+Weight: 2~
+
+
+
+@40=~Luxury Book of Anger~
+@41=~This book is lavishly adorned with gemstones, precious metals and exotic leather, its whole exterior screams as if the sole purpose of its existence is to stand on a shelf in a house of some nobility. This book holds no useful information but rather collection of pictures. Using magical powers of this book will cause it to completely dissolve into nothing.
+
+STATISTICS:
+
+Damage: Raised by 1 point permanently
+Special: The book is consumed upon use
+Usage: Place into quick item slot
+
+Weight: 50~
+
+
+
+@42=~First Luxury Tome of Arcane Powers~
+@43=~This book is lavishly adorned with gemstones, precious metals and exotic leather, its whole exterior screams as if the sole purpose of its existence is to stand on a shelf in a house of some nobility. This book holds no useful information but rather collection of pictures. Using magical powers of this book will cause it to completely dissolve into nothing.
+
+STATISTICS:
+
+Spells: Grants one 1st level extra arcane spell permanently(will be shown only when this spell level reached naturally already)
+Special: The book is consumed upon use
+Usage: Place into quick item slot
+
+Requires:
+17 Intelligence
+
+Weight: 50
+
+Usable by:
+Bard
+Mage~
+
+
+
+@44=~Second Luxury Tome of Arcane Powers~
+@45=~This book is lavishly adorned with gemstones, precious metals and exotic leather, its whole exterior screams as if the sole purpose of its existence is to stand on a shelf in a house of some nobility. This book holds no useful information but rather collection of pictures. Using magical powers of this book will cause it to completely dissolve into nothing.
+
+STATISTICS:
+
+Spells: Grants one 2nd level extra arcane spell permanently(will be shown only when this spell level reached naturally already)
+Special: The book is consumed upon use
+Usage: Place into quick item slot
+
+Requires:
+18 Intelligence
+
+Weight: 50
+
+Usable by:
+Bard
+Mage~
+
+
+
+@46=~Third Luxury Tome of Arcane Powers~
+@47=~This book is lavishly adorned with gemstones, precious metals and exotic leather, its whole exterior screams as if the sole purpose of its existence is to stand on a shelf in a house of some nobility. This book holds no useful information but rather collection of pictures. Using magical powers of this book will cause it to completely dissolve into nothing.
+
+STATISTICS:
+
+Spells: Grants one 3rd level extra arcane spell permanently(will be shown only when this spell level reached naturally already)
+Special: The book is consumed upon use
+Usage: Place into quick item slot
+
+Requires:
+19 Intelligence
+
+Weight: 50
+
+Usable by:
+Bard
+Mage~
+
+
+
+@48=~Forth Luxury Tome of Arcane Powers~
+@49=~This book is lavishly adorned with gemstones, precious metals and exotic leather, its whole exterior screams as if the sole purpose of its existence is to stand on a shelf in a house of some nobility. This book holds no useful information but rather collection of pictures. Using magical powers of this book will cause it to completely dissolve into nothing.
+
+STATISTICS:
+
+Spells: Grants one 3rd level extra arcane spell permanently(will be shown only when this spell level reached naturally already)
+Special: The book is consumed upon use
+Usage: Place into quick item slot
+
+Requires:
+20 Intelligence
+
+Weight: 50
+
+Usable by:
+Bard
+Mage~
+
+
+
+@50=~Luxury Book of Deft Fingers~
+@51=~This book is lavishly adorned with gemstones, precious metals and exotic leather, its whole exterior screams as if the sole purpose of its existence is to stand on a shelf in a house of some nobility. This book holds no useful information but rather collection of pictures. Using magical powers of this book will cause it to completely dissolve into nothing.
+
+STATISTICS:
+
+Pick pockets skill: Raised by 5 points permanently
+Special: The book is consumed upon use
+Usage: Place into quick item slot
+
+Weight: 50
+
+Usable by:
+Bard
+Thief~
+
+
+
+@52=~Luxury Book of Fascinating Tales~
+@53=~This book is lavishly adorned with gemstones, precious metals and exotic leather, its whole exterior screams as if the sole purpose of its existence is to stand on a shelf in a house of some nobility. This book holds no useful information but rather collection of pictures. Using magical powers of this book will cause it to completely dissolve into nothing.
+
+STATISTICS:
+
+Lore: Raised by 10 point permanently
+Special: The book is consumed upon use
+Usage: Place into quick item slot
+
+Weight: 50~
+
+
+
+@54=~Luxury Book of Acid Resistance~
+@55=~This book is lavishly adorned with gemstones, precious metals and exotic leather, its whole exterior screams as if the sole purpose of its existence is to stand on a shelf in a house of some nobility. This book holds no useful information but rather collection of pictures. Using magical powers of this book will cause it to completely dissolve into nothing.
+
+STATISTICS:
+
+Acid resistance: Raised by 5 point permanently
+Special: The book is consumed upon use
+Usage: Place into quick item slot
+
+Weight: 50~
+
+
+
+@56=~Old Gorion's boots~
+@57=~Those old boots make its wearer run extremely fast but you can't help but feel it is a bad luck to bring old stuff into a new life.
+
+STATISTICS:
+
+Equipped abilities:
+- Doubled movement rate
+- Luck -2
+
+Weight: 4~
+
+
+
+@58=~Girdle of Thousand Eyes~
+@59=~This girdle gives anyone near it sense of unease and some strange feeling of being watched.
+
+STATISTICS:
+
+Equipped abilities:
+- Infravision
+- Immunity to blindness
+- Immunity to backstab
+- Detect illusion bonus 80%
+
+Weight: 2~
+
+
+
+@60=~Flower wreath~
+@61=~This beautiful wreath of belladonna flowers may bring some good luck to you. It seems like these particular flowers don't wither at all.
+
+STATISTICS:
+
+Equipped abilities:
+- Luck: +1
+- Charisma: +1
+
+Weight: 1~
+
+
+
+@62=~Magic charm of Ambidexterity~
+@63=~This amulet was originally made for the head chef of a not very famous king. The king, fearing attempts on his own life, did not allow his cook to have assistants. The amulet allowed the cook to use two knives simultaneously to compensate for the lack of help in the kitchen. Over time, the king almost stopped fearing for his life and arranged more and more lavish feasts, giving the royal cook more and more work. In the end, the king was not poisoned - he was found with two knives stuck into his body.
+
+STATISTICS:
+
+Equipped abilities:
+- +1 THAC0
+- +2 Offhand THAC0
+
+Weight: 1~
+
+
+
+@64=~Luxury Book of Cold Resistance~
+@65=~This book is lavishly adorned with gemstones, precious metals and exotic leather, its whole exterior screams as if the sole purpose of its existence is to stand on a shelf in a house of some nobility. This book holds no useful information but rather collection of pictures.
+
+STATISTICS:
+
+Cold resistance: Raised by 5 point permanently
+Special: The book is consumed upon use
+Usage: Place into quick item slot
+
+Weight: 50~
+
+
+
+@66=~Luxury Book of Electricity Resistance~
+@67=~This book is lavishly adorned with gemstones, precious metals and exotic leather, its whole exterior screams as if the sole purpose of its existence is to stand on a shelf in a house of some nobility. This book holds no useful information but rather collection of pictures. Using magical powers of this book will cause it to completely dissolve into nothing.
+
+STATISTICS:
+
+Electricity resistance: Raised by 5 point permanently
+Special: The book is consumed upon use
+Usage: Place into quick item slot
+
+Weight: 50~
+
+
+
+@68=~Luxury Book of Fire Resistance~
+@69=~This book is lavishly adorned with gemstones, precious metals and exotic leather, its whole exterior screams as if the sole purpose of its existence is to stand on a shelf in a house of some nobility. This book holds no useful information but rather collection of pictures. Using magical powers of this book will cause it to completely dissolve into nothing.
+
+STATISTICS:
+
+Fire resistance: Raised by 5 point permanently
+Special: The book is consumed upon use
+Usage: Place into quick item slot
+
+Weight: 50~
+
+
+
+@70=~Luxury Book of Magic Damage Resistance~
+@71=~This book is lavishly adorned with gemstones, precious metals and exotic leather, its whole exterior screams as if the sole purpose of its existence is to stand on a shelf in a house of some nobility. This book holds no useful information but rather collection of pictures. Using magical powers of this book will cause it to completely dissolve into nothing.
+
+STATISTICS:
+
+Magic Damage resistance: Raised by 5 point permanently
+Special: The book is consumed upon use
+Usage: Place into quick item slot
+
+Weight: 50~
+
+
+
+@72=~Luxury Book of Caution~
+@73=~This book is lavishly adorned with gemstones, precious metals and exotic leather, its whole exterior screams as if the sole purpose of its existence is to stand on a shelf in a house of some nobility. This book holds no useful information but rather collection of pictures. Using magical powers of this book will cause it to completely dissolve into nothing.
+
+STATISTICS:
+
+Find traps skill: Raised by 5 points permanently
+Special: The book is consumed upon use
+Usage: Place into quick item slot
+
+Weight: 50
+
+Usable by:
+Thief~
+
+
+
+@74=~Luxury Book of Quiet~
+@75=~This book is lavishly adorned with gemstones, precious metals and exotic leather, its whole exterior screams as if the sole purpose of its existence is to stand on a shelf in a house of some nobility. This book holds no useful information but rather collection of pictures. Using magical powers of this book will cause it to completely dissolve into nothing.
+
+STATISTICS:
+
+Move silently skill: Raised by 5 points permanently
+Special: The book is consumed upon use
+Usage: Place into quick item slot
+
+Weight: 50
+
+Usable by:
+Thief~
+
+
+
+@76=~Luxury Book of Obscurity~
+@77=~This book is lavishly adorned with gemstones, precious metals and exotic leather, its whole exterior screams as if the sole purpose of its existence is to stand on a shelf in a house of some nobility. This book holds no useful information but rather collection of pictures. Using magical powers of this book will cause it to completely dissolve into nothing.
+
+STATISTICS:
+
+Hide in shadows skill: Raised by 5 points permanently
+Special: The book is consumed upon use
+Usage: Place into quick item slot
+
+Weight: 50
+
+Usable by:
+Thief~
+
+
+
+@78=~Luxury Book of Unbearable Curiosity~
+@79=~This book is lavishly adorned with gemstones, precious metals and exotic leather, its whole exterior screams as if the sole purpose of its existence is to stand on a shelf in a house of some nobility. This book holds no useful information but rather collection of pictures. Using magical powers of this book will cause it to completely dissolve into nothing.
+
+STATISTICS:
+
+Open locks skill: Raised by 5 points permanently
+Special: The book is consumed upon use
+Usage: Place into quick item slot
+
+Weight: 50
+
+Usable by:
+Thief~
+
+
+
+@80=~Luxury Book of Clarity~
+@81=~This book is lavishly adorned with gemstones, precious metals and exotic leather, its whole exterior screams as if the sole purpose of its existence is to stand on a shelf in a house of some nobility. This book holds no useful information but rather collection of pictures. Using magical powers of this book will cause it to completely dissolve into nothing.
+
+STATISTICS:
+
+Detect illusion skill: Raised by 5 points permanently
+Special: The book is consumed upon use
+Usage: Place into quick item slot
+
+Weight: 50
+
+Usable by:
+Thief~
+
+
+
+@82=~Luxury Book of Vicious Intent~
+@83=~This book is lavishly adorned with gemstones, precious metals and exotic leather, its whole exterior screams as if the sole purpose of its existence is to stand on a shelf in a house of some nobility. This book holds no useful information but rather collection of pictures. Using magical powers of this book will cause it to completely dissolve into nothing.
+
+STATISTICS:
+
+Set traps skill: Raised by 5 points permanently
+Special: The book is consumed upon use
+Usage: Place into quick item slot
+
+Weight: 50
+
+Usable by:
+Thief~
+
+
+
+@84=~Fast Talos's Gift~
+@85=~Those boots are basically are the ones known as Talos's Gift but now they are enchanted in a way to allow its wearer to move at a much faster pace.
+
+STATISTICS:
+
+Equipped abilities:
+- Greater movement rate
+- Electrical Resistance: +50%
+
+Weight: 4~
+
+
+
+@86=~Faster Frost's Embrace~
+@87=~Those boots are basically are the ones known as The Frost's Embrace but now they are enchanted in a way to allow its wearer to move at a much faster pace.
+
+STATISTICS:
+
+Equipped abilities:
+- Greater movement rate
+- Cold Resistance: +50%
+
+Weight: 4~
+
+
+
+@88=~Fast Senses of the Cat~
+@89=~Those boots are basically are the ones known as Senses of the Cat but now they are enchanted in a way to allow its wearer to move at a much faster pace.
+
+STATISTICS:
+
+Equipped abilities:
+- Greater movement rate
+- Armor Class: +5 vs. missile attacks
+
+Weight: 4~
+
+
+
+@90=~Faster Worn Whispers~
+@91=~Those boots are basically are the ones known as Worn Whispers but now they are enchanted in a way to allow its wearer to move at a much faster pace.
+
+STATISTICS:
+
+Equipped abilities:
+- Greater movement rate
+- Move Silently: +20%
+- Hide In Shadows: +15%
+
+Weight: 4~
+
+
+
+@92=~Perfect boots~
+@93=~These boots are not just useful by allowing you to move faster, but also they are sturdy and suitable for any weather while looking incredibly stylish and comfortable to the point that you feel that you'll be right at ease even visiting a palace or taking over the world.
+
+STATISTICS:
+
+Equipped abilities:
+- Greater movement rate
+- Armor Class: +1
+- Saving Throws: +1
+- Cold Resistance: +25%
+- Fire Resistance: +25%
+- Luck: +1
+- Charisma: +1
+
+Weight: 4~
+
+
+
+@94=~Courier's boots~
+@95=~These boots will allow you to walk faster and for longer periods of time. They also provide decent protection from cold or heat - great for those who move around a lot.
+
+STATISTICS:
+
+Equipped abilities:
+- Greater movement rate
+- Cold Resistance: +25%
+- Fire Resistance: +25%
+- Constitution: +1
+
+Weight: 4~
+
+
+
+@96=~Damian's note~
+@97=~To any adventurers or others in need of special boots:
+
+For magical boots and 15000 gold I can give fast magical boots
+For fast boots, 25000 gold and 24 sunstones I can give fast boots for long travels
+For fast boots, 50000 gold and 1 rogue stone I can give a pair of fast, stylish and comfortable boots
+
+Also, any white pearls can be traded for healing potions by my familiar
+
+Damian, resident of Jovial Juggler~
+
+
+
+@98=~An odd-smelling flower wreath, though very pretty.~
+
+
+
+@99=~Earrings~
+@100=~Magical Earrings~
+
+
+
+@101=~Bracelet~
+@102=~Magical Bracelet~
+@103=~Bracelets are bands of metal or leather that usually meant to protect their wearer. Generally, the magic that is instilled in bracelets is good only during combat, since most bracelets help protect the wearer from injury or improve their chances to strike an opponent. Exceptions do exist, though such specialized items are rare at best.
+
+STATISTICS:
+
+Weight: 0~
+
+
+
+@104=~Earrings that meant to protect their wearer. Generally, the magic that is instilled in such earrings is good only during combat. Exceptions do exist, though such specialized items are rare.
+
+STATISTICS:
+
+Weight: 0~
+
+
+
+@105=~Bracelet of Defense AC 8~
+@106=~Bracelets are bands of metal or leather that usually meant to protect their wearer. Generally, the magic that is instilled in bracelets is good only during combat, since most bracelets help protect the wearer from injury or improve their chances to strike an opponent. Exceptions do exist, though such specialized items are rare at best.
+
+STATISTICS:
+
+Equipped abilities:
+- Armor Class: 8
+
+Weight: 0~
+
+
+
+@107=~Bracelet of Defense AC 7~
+@108=~Bracelets are bands of metal or leather that usually meant to protect their wearer. Generally, the magic that is instilled in bracelets is good only during combat, since most bracelets help protect the wearer from injury or improve their chances to strike an opponent. Exceptions do exist, though such specialized items are rare at best.
+
+STATISTICS:
+
+Equipped abilities:
+- Armor Class: 7
+
+Weight: 0~
+
+
+
+@109=~Bracelet of Defense AC 6~
+@110=~Bracelets are bands of metal or leather that usually meant to protect their wearer. Generally, the magic that is instilled in bracelets is good only during combat, since most bracelets help protect the wearer from injury or improve their chances to strike an opponent. Exceptions do exist, though such specialized items are rare at best.
+
+STATISTICS:
+
+Equipped abilities:
+- Armor Class: 6
+
+Weight: 0~
+
+
+
+@111=~Bracelet of Defense AC 5~
+@112=~Bracelets are bands of metal or leather that usually meant to protect their wearer. Generally, the magic that is instilled in bracelets is good only during combat, since most bracelets help protect the wearer from injury or improve their chances to strike an opponent. Exceptions do exist, though such specialized items are rare at best.
+
+STATISTICS:
+
+Equipped abilities:
+- Armor Class: 5
+
+Weight: 0~
+
+
+
+@113=~Earrings of Protection~
+@114=~These simple earrings have been imbued with some small magical properties to help protect its wearer. It does so by affecting Armor Class. It is ideal for Mages and others who cannot wear bulkier or more restrictive types of armor.
+
+STATISTICS:
+
+Equipped abilities:
+- Armor Class: +1
+
+Weight: 0~
+
+
+
+@115=~These simple earrings have been imbued with some small magical properties to help protect its wearer. It does so by affecting Saving Throws. It is ideal for Mages and others who cannot wear bulkier or more restrictive types of armor.
+
+STATISTICS:
+
+Equipped abilities:
+- Saving Throws: +1
+
+Weight: 0~
+
+
+
+@116=~Earrings of Protection +1~
+@117=~These simple earrings have been imbued with some small magical properties to help protect its wearer. It does so by affecting both Armor Class and Saving Throws. It is ideal for Mages and others who cannot wear bulkier or more restrictive types of armor.
+
+STATISTICS:
+
+Equipped abilities:
+- Armor Class: +1
+- Saving Throws: +1
+
+Weight: 0~
+
+
+
+@118=~These simple earrings have been imbued with some small magical properties to help protect its wearer. It does so by affecting Saving Throws. It is ideal for Mages and others who cannot wear bulkier or more restrictive types of armor.
+
+STATISTICS:
+
+Equipped abilities:
+- Save vs. Death: +2
+
+Weight: 0~
+
+
+
+@119=~Bracelet of Defense~
+@120=~Bracelets are bands of metal or leather that usually meant to protect their wearer. Generally, the magic that is instilled in bracelets is good only during combat, since most bracelets help protect the wearer from injury or improve their chances to strike an opponent. Exceptions do exist, though such specialized items are rare at best.
+
+STATISTICS:
+
+Equipped abilities:
+- Save vs. Death: +2
+
+Weight: 0~
+
+
+
+@121=~Bracelet of Poison Protection~
+@122=~Bracelets are bands of metal or leather that usually meant to protect their wearer. This particular bracelet was designed for a bard that was afraid to poison himself during some wild party while trying to poison somebody else.
+
+Equipped abilities:
+- Immunity to poison
+
+Weight: 0~
+
+
+
+@123=~Earrings of Fake Eloquence~
+@124=~These earrings have been imbued with magic that can help the wearer to persuade others to do their bidding.
+
+STATISTICS:
+
+Charge abilities:
+- Friends twice per day
+
+Weight: 0~
+
+
+
+@125=~Earrings of Fire Protection~
+@126=~These simple earrings have been imbued with some small magical properties to help protect its wearer. It is ideal for Mages and others who cannot wear bulkier or more restrictive types of armor.
+
+STATISTICS:
+
+Equipped abilities:
+- Fire Resistance: +40%
+
+Weight: 0~
+
+
+
+@127=~Earrings of Fire Protection +1~
+@128=~These simple earrings have been imbued with some small magical properties to help protect its wearer. It is ideal for Mages and others who cannot wear bulkier or more restrictive types of armor.
+
+STATISTICS:
+
+Equipped abilities:
+- Fire Resistance: +20%
+- Armor Class: +1
+- Saving Throws: +1
+
+Weight: 0~
+
+
+
+@129=~Bracelet of Fire Protection~
+@130=~Bracelets are bands of metal or leather that usually meant to protect their wearer. Generally, the magic that is instilled in bracelets is good only during combat, since most bracelets help protect the wearer from injury or improve their chances to strike an opponent. Exceptions do exist, though such specialized items are rare at best.
+
+STATISTICS:
+
+Equipped abilities:
+- Fire Resistance: +40%
+
+Weight: 0~
+
+
+
+@131=~Bracelet of Fire Protection +1~
+@132=~Bracelets are bands of metal or leather that usually meant to protect their wearer. Generally, the magic that is instilled in bracelets is good only during combat, since most bracelets help protect the wearer from injury or improve their chances to strike an opponent. Exceptions do exist, though such specialized items are rare at best.
+
+STATISTICS:
+
+Equipped abilities:
+- Fire Resistance: +20%
+- Armor Class: +1
+- Saving Throws: +1
+
+Weight: 0~
+
+
+
+
+
+

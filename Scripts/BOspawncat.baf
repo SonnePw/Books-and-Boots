@@ -1,0 +1,9 @@
+IF
+GLOBAL("BOspawncat","GLOBAL",0)
+
+THEN RESPONSE #100
+
+CreateCreature("BOCat",[170.336],E)
+
+SetGlobal("BOspawncat","GLOBAL",1)
+END

@@ -1,0 +1,410 @@
+BACKUP ~Books/Backup~
+AUTHOR ~Pufuc~ //For help message me on Nexus
+
+VERSION ~v0.61~
+
+LANGUAGE
+        ~English~
+        ~English~
+~Books/English/Books_setup.tra~
+~Books/English/Books_items.tra~
+~Books/English/Books_names.tra~
+
+
+
+BEGIN @1
+
+REQUIRE_PREDICATE GAME_IS ~bgee~ @2
+
+COPY ~Books/Items/BOBOOK01.itm~ ~override/BOBOOK01.itm~
+     SAY NAME2 @20
+     SAY DESC @21
+     
+COPY ~Books/Items/BOBOOK02.itm~ ~override/BOBOOK02.itm~
+     SAY NAME2 @22
+     SAY DESC @23
+     
+COPY ~Books/Items/BOBOOK03.itm~ ~override/BOBOOK03.itm~
+     SAY NAME2 @24
+     SAY DESC @25
+     
+COPY ~Books/Items/BOBOOK04.itm~ ~override/BOBOOK04.itm~
+     SAY NAME2 @26
+     SAY DESC @27
+     
+COPY ~Books/Items/BOBOOK05.itm~ ~override/BOBOOK05.itm~
+     SAY NAME2 @28
+     SAY DESC @29
+     
+COPY ~Books/Items/BOBOOK06.itm~ ~override/BOBOOK06.itm~
+     SAY NAME2 @30
+     SAY DESC @31
+
+COPY ~Books/Items/BOBOOK07.itm~ ~override/BOBOOK07.itm~
+     SAY NAME2 @32
+     SAY DESC @33
+     
+COPY ~Books/Items/BOBOOK08.itm~ ~override/BOBOOK08.itm~
+     SAY NAME2 @34
+     SAY DESC @35
+     
+COPY ~Books/Items/BOBOOK09.itm~ ~override/BOBOOK09.itm~
+     SAY NAME2 @36
+     SAY DESC @37
+     
+COPY ~Books/Items/BOBOOT01.itm~ ~override/BOBOOT01.itm~
+     SAY NAME2 @38
+     SAY DESC @39
+     
+COPY ~Books/Items/BOBOOK10.itm~ ~override/BOBOOK10.itm~
+     SAY NAME2 @40
+     SAY DESC @41
+     
+COPY ~Books/Items/BOBOOK11.itm~ ~override/BOBOOK11.itm~
+     SAY NAME2 @42
+     SAY DESC @43
+     
+COPY ~Books/Items/BOBOOK12.itm~ ~override/BOBOOK12.itm~
+     SAY NAME2 @44
+     SAY DESC @45
+     
+COPY ~Books/Items/BOBOOK13.itm~ ~override/BOBOOK13.itm~
+     SAY NAME2 @46
+     SAY DESC @47
+     
+COPY ~Books/Items/BOBOOK14.itm~ ~override/BOBOOK14.itm~
+     SAY NAME2 @48
+     SAY DESC @49
+     
+COPY ~Books/Items/BOBOOK15.itm~ ~override/BOBOOK15.itm~
+     SAY NAME2 @50
+     SAY DESC @51
+
+COPY ~Books/Items/BOBOOK16.itm~ ~override/BOBOOK16.itm~
+     SAY NAME2 @52
+     SAY DESC @53
+
+COPY ~Books/Items/BOBOOK17.itm~ ~override/BOBOOK17.itm~
+     SAY NAME2 @54
+     SAY DESC @55
+     
+COPY ~Books/Items/BOBOOT02.itm~ ~override/BOBOOT02.itm~
+     SAY NAME2 @56
+     SAY DESC @57
+     
+COPY ~Books/Items/BOBELT01.itm~ ~override/BOBELT01.itm~
+     SAY NAME2 @58
+     SAY DESC @59
+     
+COPY ~Books/Items/BOHELM01.itm~ ~override/BOHELM01.itm~
+     SAY NAME1 @60
+     SAY NAME2 @60
+     SAY UNIDENTIFIED_DESC @98
+     SAY DESC @61
+     
+COPY ~Books/Items/BOAMUL01.itm~ ~override/BOAMUL01.itm~
+     SAY NAME2 @62
+     SAY DESC @63
+     
+COPY ~Books/Items/BOBOOK18.itm~ ~override/BOBOOK18.itm~
+     SAY NAME2 @64
+     SAY DESC @65
+     
+COPY ~Books/Items/BOBOOK19.itm~ ~override/BOBOOK19.itm~
+     SAY NAME2 @66
+     SAY DESC @67
+     
+COPY ~Books/Items/BOBOOK20.itm~ ~override/BOBOOK20.itm~
+     SAY NAME2 @68
+     SAY DESC @69
+
+COPY ~Books/Items/BOBOOK21.itm~ ~override/BOBOOK21.itm~
+     SAY NAME2 @70
+     SAY DESC @71
+     
+COPY ~Books/Items/BOBOOK22.itm~ ~override/BOBOOK22.itm~
+     SAY NAME2 @72
+     SAY DESC @73
+     
+COPY ~Books/Items/BOBOOK23.itm~ ~override/BOBOOK23.itm~
+     SAY NAME2 @74
+     SAY DESC @75
+     
+COPY ~Books/Items/BOBOOK24.itm~ ~override/BOBOOK24.itm~
+     SAY NAME2 @76
+     SAY DESC @77
+     
+COPY ~Books/Items/BOBOOK25.itm~ ~override/BOBOOK25.itm~
+     SAY NAME2 @78
+     SAY DESC @79
+     
+COPY ~Books/Items/BOBOOK26.itm~ ~override/BOBOOK26.itm~
+     SAY NAME2 @80
+     SAY DESC @81
+     
+COPY ~Books/Items/BOBOOK27.itm~ ~override/BOBOOK27.itm~
+     SAY NAME2 @82
+     SAY DESC @83
+     
+COPY ~Books/Items/BOBOOT03.itm~ ~override/BOBOOT03.itm~
+     SAY NAME2 @84
+     SAY DESC @85
+     
+COPY ~Books/Items/BOBOOT04.itm~ ~override/BOBOOT04.itm~
+     SAY NAME2 @86
+     SAY DESC @87
+
+COPY ~Books/Items/BOBOOT05.itm~ ~override/BOBOOT05.itm~
+     SAY NAME2 @88
+     SAY DESC @89
+     
+COPY ~Books/Items/BOBOOT06.itm~ ~override/BOBOOT06.itm~
+     SAY NAME2 @90
+     SAY DESC @91
+     
+COPY ~Books/Items/BOBOOT07.itm~ ~override/BOBOOT07.itm~
+     SAY NAME2 @92
+     SAY DESC @93
+     
+COPY ~Books/Items/BOBOOT08.itm~ ~override/BOBOOT08.itm~
+     SAY NAME2 @94
+     SAY DESC @95
+     
+COPY ~Books/Items/BOMISC01.itm~ ~override/BOMISC01.itm~
+     SAY NAME2 @96
+     SAY DESC @97
+     
+COPY ~Books/Items/BOHELM02.itm~ ~override/BOHELM02.itm~
+     SAY NAME1 @99
+     SAY NAME2 @123
+     SAY UNIDENTIFIED_DESC @104
+     SAY DESC @124
+     
+COPY ~Books/Items/BOHELM03.itm~ ~override/BOHELM03.itm~
+     SAY NAME1 @99
+     SAY NAME2 @113
+     SAY UNIDENTIFIED_DESC @104
+     SAY DESC @114
+     
+COPY ~Books/Items/BOHELM04.itm~ ~override/BOHELM04.itm~
+     SAY NAME1 @99
+     SAY NAME2 @113
+     SAY UNIDENTIFIED_DESC @104
+     SAY DESC @115
+     
+COPY ~Books/Items/BOHELM05.itm~ ~override/BOHELM05.itm~
+     SAY NAME1 @99
+     SAY NAME2 @116
+     SAY UNIDENTIFIED_DESC @104
+     SAY DESC @117
+
+COPY ~Books/Items/BOHELM06.itm~ ~override/BOHELM06.itm~
+     SAY NAME1 @99
+     SAY NAME2 @113
+     SAY UNIDENTIFIED_DESC @104
+     SAY DESC @118
+     
+COPY ~Books/Items/BOHELM07.itm~ ~override/BOHELM07.itm~
+     SAY NAME1 @99
+     SAY NAME2 @113
+     SAY UNIDENTIFIED_DESC @104
+     SAY DESC @118
+     
+COPY ~Books/Items/BOHELM08.itm~ ~override/BOHELM08.itm~
+     SAY NAME1 @99
+     SAY NAME2 @125
+     SAY UNIDENTIFIED_DESC @104
+     SAY DESC @126
+     
+COPY ~Books/Items/BOHELM09.itm~ ~override/BOHELM09.itm~
+     SAY NAME1 @99
+     SAY NAME2 @127
+     SAY UNIDENTIFIED_DESC @104
+     SAY DESC @128
+
+COPY ~Books/Items/BOBRAC01.itm~ ~override/BOBRAC01.itm~
+     SAY NAME1 @101
+     SAY NAME2 @119
+     SAY UNIDENTIFIED_DESC @103
+     SAY DESC @120
+
+COPY ~Books/Items/BOBRAC02.itm~ ~override/BOBRAC02.itm~
+     SAY NAME1 @101
+     SAY NAME2 @105
+     SAY UNIDENTIFIED_DESC @103
+     SAY DESC @106
+
+COPY ~Books/Items/BOBRAC03.itm~ ~override/BOBRAC03.itm~
+     SAY NAME1 @101
+     SAY NAME2 @107
+     SAY UNIDENTIFIED_DESC @103
+     SAY DESC @108
+
+COPY ~Books/Items/BOBRAC04.itm~ ~override/BOBRAC04.itm~
+     SAY NAME1 @101
+     SAY NAME2 @109
+     SAY UNIDENTIFIED_DESC @103
+     SAY DESC @110
+
+COPY ~Books/Items/BOBRAC05.itm~ ~override/BOBRAC05.itm~
+     SAY NAME1 @101
+     SAY NAME2 @111
+     SAY UNIDENTIFIED_DESC @103
+     SAY DESC @112
+
+COPY ~Books/Items/BOBRAC06.itm~ ~override/BOBRAC06.itm~
+     SAY NAME1 @101
+     SAY NAME2 @121
+     SAY UNIDENTIFIED_DESC @103
+     SAY DESC @122
+     
+COPY ~Books/Items/BOBRAC07.itm~ ~override/BOBRAC07.itm~
+     SAY NAME1 @101
+     SAY NAME2 @129
+     SAY UNIDENTIFIED_DESC @103
+     SAY DESC @130
+     
+COPY ~Books/Items/BOBRAC08.itm~ ~override/BOBRAC08.itm~
+     SAY NAME1 @101
+     SAY NAME2 @131
+     SAY UNIDENTIFIED_DESC @103
+     SAY DESC @132
+
+
+
+COPY ~Books/STO/BINN3304.STO~ ~override/INN3304.STO~
+
+
+
+COPY ~Books/BAM/BOBOOKR.BAM~ ~override/BOBOOKR.BAM~
+COPY ~Books/BAM/BOBOOKB.BAM~ ~override/BOBOOKB.BAM~
+COPY ~Books/BAM/BOBOOKO.BAM~ ~override/BOBOOKO.BAM~
+COPY ~Books/BAM/BOBOOKP.BAM~ ~override/BOBOOKP.BAM~
+COPY ~Books/BAM/BOBOOKW.BAM~ ~override/BOBOOKW.BAM~
+COPY ~Books/BAM/BOBOOKG.BAM~ ~override/BOBOOKG.BAM~
+COPY ~Books/BAM/BOHELM01.BAM~ ~override/BOHELM01.BAM~
+COPY ~Books/BAM/BOHELM02.BAM~ ~override/BOHELM02.BAM~
+COPY ~Books/BAM/BOHELM03.BAM~ ~override/BOHELM03.BAM~
+COPY ~Books/BAM/BOHELM04.BAM~ ~override/BOHELM04.BAM~
+COPY ~Books/BAM/BOHELM05.BAM~ ~override/BOHELM05.BAM~
+COPY ~Books/BAM/BOHELM06.BAM~ ~override/BOHELM06.BAM~
+COPY ~Books/BAM/BOHELM07.BAM~ ~override/BOHELM07.BAM~
+COPY ~Books/BAM/BOHELM08.BAM~ ~override/BOHELM08.BAM~
+COPY ~Books/BAM/BOHELM09.BAM~ ~override/BOHELM09.BAM~
+COPY ~Books/BAM/BOBRAC01.BAM~ ~override/BOBRAC01.BAM~
+COPY ~Books/BAM/BOBRAC02.BAM~ ~override/BOBRAC02.BAM~
+COPY ~Books/BAM/BOBRAC03.BAM~ ~override/BOBRAC03.BAM~
+COPY ~Books/BAM/BOBRAC04.BAM~ ~override/BOBRAC04.BAM~
+COPY ~Books/BAM/BOBRAC05.BAM~ ~override/BOBRAC05.BAM~
+COPY ~Books/BAM/BOBRAC06.BAM~ ~override/BOBRAC06.BAM~
+COPY ~Books/BAM/BOBRAC07.BAM~ ~override/BOBRAC07.BAM~
+COPY ~Books/BAM/BOBRAC08.BAM~ ~override/BOBRAC08.BAM~
+
+
+
+COMPILE ~Books/Dialog/BOCat.d~
+COMPILE ~Books/Dialog/BOKitty.d~
+COMPILE ~Books/Dialog/BODrunk.d~
+COMPILE ~Books/Dialog/BOGorion.d~
+COMPILE ~Books/Dialog/BOBoy.d~
+
+
+
+COMPILE ~Books/Scripts/BOspawncat.baf~
+COMPILE ~Books/Scripts/BOspawnkitty.baf~
+COMPILE ~Books/Scripts/BOspawndrunk.baf~
+COMPILE ~Books/Scripts/BOspawnboy.baf~
+COMPILE ~Books/Scripts/BOspawnmadman.baf~
+
+
+
+COPY ~Books/CRE/BOCAT.CRE~ ~override/BOCAT.CRE~
+     SAY NAME1 @10
+     SAY NAME2 @10
+WRITE_ASCII SCRIPT_DEFAULT ~BOCat~
+WRITE_ASCII DIALOG ~BOCat~
+
+COPY ~Books/CRE/BODrunk.CRE~ ~override/BODrunk.CRE~
+     SAY NAME1 @12
+     SAY NAME2 @12
+WRITE_ASCII DIALOG ~BODrunk~
+
+COPY ~Books/CRE/BOBoy.CRE~ ~override/BOBoy.CRE~
+     SAY NAME1 @11
+     SAY NAME2 @11
+WRITE_ASCII DIALOG ~BOBoy~
+
+COPY ~Books/CRE/BOMadman.CRE~ ~override/BOMadman.CRE~
+     SAY NAME1 @13
+     SAY NAME2 @13
+
+COPY ~Books/CRE/BODRYAD.CRE~ ~override/BODRYAD.CRE~
+     SAY NAME1 @14
+     SAY NAME2 @14
+WRITE_ASCII SCRIPT_DEFAULT ~BODryad~
+WRITE_ASCII DIALOG ~BODryad~
+
+COPY ~Books/CRE/BOKITTY.CRE~ ~override/BOKITTY.CRE~
+     SAY NAME1 @10
+     SAY NAME2 @10
+WRITE_ASCII SCRIPT_DEFAULT ~BOKITTY~
+WRITE_ASCII DIALOG ~BOKITTY~
+
+
+
+EXTEND_TOP ~AR2616.bcs~ ~Books/Scripts/BOspawncat.baf~
+EXTEND_TOP ~AR2301.bcs~ ~Books/Scripts/BOspawndrunk.baf~
+EXTEND_TOP ~AR3305.bcs~ ~Books/Scripts/BOspawnboy.baf~
+EXTEND_TOP ~AR3305.bcs~ ~Books/Scripts/BOspawnkitty.baf~
+EXTEND_TOP ~AR5103.bcs~ ~Books/Scripts/BOspawnmadman.baf~
+
+
+
+COPY ~Books/2DA/LOREBON.2DA~ ~override/LOREBON.2DA~
+COPY ~Books/2DA/STRMOD.2DA~ ~override/STRMOD.2DA~
+
+
+
+COPY_EXISTING ~SILKE.CRE~ ~override~
+ADD_CRE_ITEM ~BOHELM02~ #0 #0 #0 ~NONE~ ~HELMET~
+ADD_CRE_ITEM ~BOBRAC06~ #0 #0 #0 ~NONE~ ~GLOVES~
+
+COPY_EXISTING ~CARSA.CRE~ ~override~
+ADD_CRE_ITEM ~BOHELM04~ #0 #0 #0 ~NONE~ ~HELMET~
+ADD_CRE_ITEM ~BOBRAC03~ #0 #0 #0 ~NONE~ ~GLOVES~
+
+COPY_EXISTING ~DHANIA.CRE~ ~override~
+ADD_CRE_ITEM ~BOHELM04~ #0 #0 #0 ~NONE~ ~HELMET~
+ADD_CRE_ITEM ~BOBRAC02~ #0 #0 #0 ~NONE~ ~GLOVES~
+
+COPY_EXISTING ~NATASH.CRE~ ~override~
+ADD_CRE_ITEM ~BOHELM05~ #0 #0 #0 ~NONE~ ~HELMET~
+ADD_CRE_ITEM ~BOBRAC04~ #0 #0 #0 ~NONE~ ~GLOVES~
+
+COPY_EXISTING ~HAREIS.CRE~ ~override~
+ADD_CRE_ITEM ~BOHELM04~ #0 #0 #0 ~NONE~ ~HELMET~
+ADD_CRE_ITEM ~BOBRAC03~ #0 #0 #0 ~NONE~ ~GLOVES~
+
+COPY_EXISTING ~ITHTYL.CRE~ ~override~
+ADD_CRE_ITEM ~BOHELM06~ #0 #0 #0 ~NONE~ ~HELMET~
+ADD_CRE_ITEM ~BOBRAC01~ #0 #0 #0 ~NONE~ ~GLOVES~
+
+COPY_EXISTING ~JEMBY.CRE~ ~override~
+ADD_CRE_ITEM ~BOHELM03~ #0 #0 #0 ~NONE~ ~HELMET~
+ADD_CRE_ITEM ~BOBRAC02~ #0 #0 #0 ~NONE~ ~GLOVES~
+
+COPY_EXISTING ~JOIA.CRE~ ~override~
+ADD_CRE_ITEM ~BOHELM05~ #0 #0 #0 ~NONE~ ~HELMET~
+ADD_CRE_ITEM ~BOBRAC02~ #0 #0 #0 ~NONE~ ~GLOVES~
+
+COPY_EXISTING ~DIANA.CRE~ ~override~
+ADD_CRE_ITEM ~BOHELM09~ #0 #0 #0 ~NONE~ ~HELMET~
+ADD_CRE_ITEM ~BOBRAC08~ #0 #0 #0 ~NONE~ ~GLOVES~
+
+COPY_EXISTING ~LASALA.CRE~ ~override~
+ADD_CRE_ITEM ~BOHELM08~ #0 #0 #0 ~NONE~ ~HELMET~
+ADD_CRE_ITEM ~BOBRAC07~ #0 #0 #0 ~NONE~ ~GLOVES~
+
+
+
+

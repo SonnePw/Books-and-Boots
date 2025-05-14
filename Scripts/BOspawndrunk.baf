@@ -1,0 +1,9 @@
+IF
+GLOBAL("BOspawndrunk","GLOBAL",0)
+
+THEN RESPONSE #100
+
+CreateCreature("BODrunk",[366.787],E)
+
+SetGlobal("BOspawndrunk","GLOBAL",1)
+END

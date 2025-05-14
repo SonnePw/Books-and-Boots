@@ -1,0 +1,9 @@
+IF
+GLOBAL("BOspawnkitty","GLOBAL",0)
+
+THEN RESPONSE #100
+
+CreateCreature("BOKitty",[553.321],S)
+
+SetGlobal("BOspawnkitty","GLOBAL",1)
+END
